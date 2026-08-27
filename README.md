@@ -1,5 +1,9 @@
 # pdt-skills
 
+> **Lizenz:** CC BY-NC-SA 4.0. Das ist eine Creative-Commons-Lizenz, keine Open-Source-Lizenz.
+> Nutzung, Weitergabe und Veränderung sind erlaubt, kommerzielle Nutzung nicht.
+> Herkunft und Bedingungen je Methode: [`NOTICE`](NOTICE).
+
 Claude-Skills für die Methoden des Product Design Toolkit. Ein Skill pro Methode, flach abgelegt, Dateiname gleich der Skill-ID.
 
 **Rolle in der Kette:** Diese Ablage ist die Quelle. Von hier werden die Skills nach `explorer/skills/` gespiegelt, wo der Explorer sie zum Download anbietet, und beim Packen ins Claude-Plugin übernommen.
