@@ -1,0 +1,474 @@
+NOTICE
+======
+
+Product Design Toolkit
+Copyright (c) 2026 Ralph Hutter  ·  https://productdesigntoolkit.net
+
+Diese Sammlung bündelt 85 Methoden der digitalen Produktentwicklung.
+Die redaktionelle Aufbereitung, also Struktur, Kurzanleitungen, Prompts und
+Dialogführung, steht unter CC BY-NC-SA 4.0 und stammt von Ralph Hutter.
+
+Die Methoden selbst stammen von ihren jeweiligen Urhebern und sind nicht
+durch diese Lizenz abgedeckt. Es gelten die Bedingungen der Rechteinhaber.
+Diese Datei listet die Herkunft je Methode.
+
+
+METHODEN MIT AUSDRÜCKLICHEN NUTZUNGSBEDINGUNGEN
+-----------------------------------------------
+
+Für die folgenden Methoden haben die Rechteinhaber eigene Bedingungen
+veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
+
+  Business Model Canvas
+    Rechteinhaber: Strategyzer AG
+    Canvas unter Creative Commons Attribution-ShareAlike 3.0.
+    Quellennennung mit Verweis auf Strategyzer.com erforderlich. Für die
+    Aufnahme in Software-Lösungen empfiehlt Strategyzer eine vorherige
+    Anfrage.
+    Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
+
+  Lean Canvas
+    Rechteinhaber: Ash Maurya
+    Adaptiert vom Business Model Canvas unter Creative Commons
+    Attribution-ShareAlike 3.0. Nennung von Ash Maurya und Strategyzer
+    erforderlich.
+    Quelle: https://leanstack.com/lean-canvas  (geprüft 2026-08-27)
+
+  Value Proposition Canvas — Customer Profile
+    Rechteinhaber: Strategyzer AG
+    Eingeschränkt. Strategyzer AG behält die Rechte für Adaptionen und
+    für die Aufnahme des Canvas in Software-Anwendungen vor. Dafür ist
+    eine Genehmigung erforderlich.
+    Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
+
+  Value Proposition Canvas — Value Map
+    Rechteinhaber: Strategyzer AG
+    Eingeschränkt. Strategyzer AG behält die Rechte für Adaptionen und
+    für die Aufnahme des Canvas in Software-Anwendungen vor. Dafür ist
+    eine Genehmigung erforderlich.
+    Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
+
+  Value Proposition Jobs to be done
+    Rechteinhaber: Strategyzer AG
+    Eingeschränkt. Leitet sich vom Value Proposition Canvas ab, für das
+    Strategyzer AG die Rechte für Adaptionen und Software-Anwendungen
+    vorbehält.
+    Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
+
+  Value Proposition Pains and Gains
+    Rechteinhaber: Strategyzer AG
+    Eingeschränkt. Leitet sich vom Value Proposition Canvas ab, für das
+    Strategyzer AG die Rechte für Adaptionen und Software-Anwendungen
+    vorbehält.
+    Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
+
+
+HERKUNFT DER METHODEN
+---------------------
+
+Strategy Space
+--------------
+
+  BCG Matrix
+    Bruce D. Henderson (Boston Consulting Group) · The Product Portfolio / The Growth-Share Matrix (BCG Perspectives) · 1970
+    https://www.bcg.com/about/overview/our-history/growth-share-matrix
+
+  Blue Ocean 4 Actions Framework
+    W. Chan Kim, Renée Mauborgne · Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant · 2005
+    https://www.blueoceanstrategy.com/tools/four-actions-framework/
+
+  Business Model Canvas
+    Alexander Osterwalder, Yves Pigneur · Business Model Generation (Strategyzer Series) · 2010
+    https://www.strategyzer.com/library/the-business-model-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+  Ecosystem Canvas
+    Marc Burkhalter · Allocentric Business Models. An Allocentric Business Model Ontology for the Orchestration of Value Co-Creation Using the Example of Financial Service Ecosystems · 2020
+    https://cocreation.rocks/
+
+  Helmers 7 Powers
+    Hamilton Helmer · 7 Powers: The Foundations of Business Strategy · 2016
+    https://7powers.com/
+
+  Impact Mapping (Strategy)
+    Gojko Adzic · Impact Mapping: Making a Big Impact with Software Products and Projects · 2012
+    https://www.impactmapping.org/
+
+  Innovationsmatrix
+    Mehrdad Baghai, Stephen Coley, David White (McKinsey & Company) · The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise · 1999
+    https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth
+
+  Market Sizing TAM SAM SOM
+    Steve Blank (Popularisierung) Werk: The Four Steps to the Epiphany / Lean Startup Community Jahr: 2005 (Blank) Link: https://steveblank.com/2010/04/15/four-market-types-2/ Typ: industrie-praxis · The Four Steps to the Epiphany / Lean Startup Community Jahr: 2005 (Blank) Link: https://steveblank.com/2010/04/15/four-market-types-2/ Typ: industrie-praxis · 2005 (Blank) Link: https://steveblank.com/2010/04/15/four-market-types-2/ Typ: industrie-praxis
+    https://steveblank.com/2010/04/15/four-market-types-2/ **Typ:** industrie-praxis
+
+  Marktstrategie
+    Industrie-Praxis (basiert auf Kotler, Ries/Trout u.a.) · Etablierte Praxis aus strategischem Marketing und Markenführung
+    https://www.kotlermarketing.com/
+
+  North Star Metrics
+    Sean Ellis (North Star Metric) · Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success · 2017
+    https://amplitude.com/blog/product-north-star-metric
+
+  OKR Framework
+    Andy Grove (Intel, Ursprung) & John Doerr (Popularisierung) · Grove — High Output Management / Doerr — Measure What Matters · 1983 (Grove, Intel) / 2018 (Doerr, Buch)
+    https://www.whatmatters.com/faqs/okr-meaning-definition-example
+
+  PESTEL Analyse
+    Francis J. Aguilar (PEST-Ursprung) · Scanning the Business Environment (Macmillan) · 1967 (PEST) / 1980er (PESTEL-Erweiterung)
+    https://www.cipd.co.uk/knowledge/strategy/organisational-development/pestle-analysis-factsheet
+
+  Porters Five Forces
+    Michael E. Porter · Competitive Strategy: Techniques for Analyzing Industries and Competitors / HBR-Artikel "How Competitive Forces Shape Strategy" · 1979 (HBR) / 1980 (Buch)
+    https://hbr.org/1979/03/how-competitive-forces-shape-strategy
+
+  Pricing Strategy Canvas
+    Industrie-Praxis (basiert auf Kotler, Nagle u.a.) · Etablierte Praxis aus Pricing-Strategie und Canvas-Methodik
+    https://hbr.org/topic/pricing-strategy
+
+  Product Lifecycle
+    Theodore Levitt · Exploit the Product Life Cycle (Harvard Business Review) · 1965
+    https://hbr.org/1965/11/exploit-the-product-life-cycle
+
+  Produktstrategie
+    Industrie-Praxis (basiert auf Pichler, Cagan u.a.) · Etablierte Praxis aus Produktmanagement und strategischer Produktentwicklung
+    https://www.romanpichler.com/blog/the-product-strategy-cycle/
+
+  STP Model
+    Philip Kotler · Marketing Management: Analysis, Planning, Implementation, and Control · 1967
+    https://www.pearson.com/en-us/subject-catalog/p/marketing-management/
+
+  SWOT Analyse
+    Albert Humphrey (Stanford Research Institute) — SWOT; Heinz Weihrich — TOWS-Matrix · Weihrich, "The TOWS Matrix — A Tool for Situational Analysis" (Long Range Planning) · 1960er (SWOT, Humphrey) / 1982 (TOWS, Weihrich)
+    https://www.usfca.edu/fact/weihrich
+
+Problem Space
+-------------
+
+  Affinity Mapping
+    Jiro Kawakita (KJ-Methode) · The Original KJ Method · 1960er Jahre
+    https://en.wikipedia.org/wiki/Affinity_diagram
+
+  Competitive Analysis
+    Industrie-Praxis (basiert auf Porter u.a.) · Etablierte Praxis aus strategischer Wettbewerbsanalyse
+    https://hbr.org/topic/competitive-strategy
+
+  Contextual Inquiry - Observation
+    Hugh Beyer, Karen Holtzblatt · Contextual Design: Defining Customer-Centered Systems · 1997
+    https://www.interaction-design.org/literature/topics/contextual-inquiry
+
+  Customer Journey Mapping
+    Industrie-Praxis (Oracle, Forrester, UX-Community) · Etablierte Praxis aus Customer Experience und Service Design
+    https://www.nngroup.com/articles/journey-mapping-101/
+
+  Empathy Maps
+    Dave Gray · Updated Empathy Map Canvas (XPLANE) · 2017
+    https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
+
+  Ideal Customer Profile (ICP)
+    Urheber nicht erfasst
+
+  Impact Mapping (Discovery)
+    Gojko Adzic · Impact Mapping: Making a Big Impact with Software Products and Projects · 2012
+    https://www.impactmapping.org/
+
+  Jobs-to-be-Done Framework
+    Clayton M. Christensen (narrative JTBD) & Anthony W. Ulwick (Outcome-Driven Innovation) · Christensen — Competing Against Luck / Ulwick — Jobs to be Done: Theory to Practice · Christensen 2016 / Ulwick 2002 (HBR), 2016 (Buch)
+    https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
+
+  Personas
+    Alan Cooper · The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity · 1998
+    https://www.interaction-design.org/literature/topics/personas
+
+  Problem Statement
+    Industrie-Praxis (Design Thinking Community, IDEO, Stanford d.school) · Etablierte Praxis aus Design Thinking und Problem Framing
+    https://dschool.stanford.edu/resources
+
+  Stakeholder Mapping
+    R. Edward Freeman · Strategic Management: A Stakeholder Approach · 1984
+    https://www.hbs.edu/faculty/Pages/item.aspx?num=6233
+
+  Surveys / Questionnaires
+    Industrie-Praxis (Research-Methodik) · Etablierte Praxis aus empirischer Sozial- und Marktforschung
+    https://www.nngroup.com/articles/qualitative-surveys/
+
+  User Interviews
+    Steve Portigal · Interviewing Users: How to Uncover Compelling Insights · 2013
+    https://rosenfeldmedia.com/books/interviewing-users/
+
+  User Journey Mapping
+    Industrie-Praxis (UX-Community, NN Group) · Etablierte Praxis aus User Experience und Service Design
+    https://www.nngroup.com/articles/journey-mapping-101/
+
+  Value Proposition Canvas — Customer Profile
+    Alexander Osterwalder, Yves Pigneur, Greg Bernarda, Alan Smith · Value Proposition Design (Strategyzer Series) · 2014
+    https://www.strategyzer.com/library/the-value-proposition-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+  Value Proposition Jobs to be done
+    Clayton M. Christensen · 2016
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+  Value Proposition Pains and Gains
+    Alexander Osterwalder & Yves Pigneur · 2014
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+Solution Space
+--------------
+
+  A/B Testing
+    Industrie-Praxis (Google, Optimizely u.a.) · Etablierte Praxis aus Online-Experimentation und Conversion-Optimierung
+    https://hbr.org/2017/09/the-surprising-power-of-online-experiments
+
+  Crazy 8s
+    Jake Knapp (Google Ventures) · Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days · 2016
+    https://www.gv.com/sprint/
+
+  How Might We Questions
+    Min Basadur (Procter & Gamble, Ursprung) / Popularisiert durch IDEO · Basadur Applied Creativity / IDEO Design Thinking · 1970er (Basadur) / 2010er (IDEO)
+    https://www.ideou.com/blogs/inspiration/how-to-use-how-might-we-questions-to-spark-creative-thinking
+
+  Key Performance Indicators (KPI)
+    Industrie-Praxis (basiert auf Kaplan/Norton Balanced Scorecard u.a.) · Etablierte Praxis aus Performance Management und Controlling
+    https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2
+
+  Mockups
+    Industrie-Praxis (UI/UX-Community, Figma/Balsamiq/Sketch) · Etablierte Praxis aus Interaction Design und UI-Entwicklung
+    https://www.nngroup.com/articles/ui-prototyping/
+
+  MVP (Minimal Viable Product)
+    Eric Ries · The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses · 2011
+    http://theleanstartup.com/principles
+
+  Pilot / Beta
+    Industrie-Praxis (Software Release Management) · Etablierte Praxis aus Produktentwicklung, Lean Startup und Agile Development
+    https://www.productplan.com/glossary/beta-testing/
+
+  Product-Market Fit
+    Andy Rachleff (Begriff), Marc Andreessen (Verbreitung) · The Pmarca Guide to Startups, Part 4, The only thing that matters · 2007
+    https://pmarchive.com/guide_to_startups_part4.html
+
+  Product Vision Statement
+    Geoffrey Moore (Vision Template) / Roman Pichler (PVB) · Moore — Crossing the Chasm / Pichler — Strategize · 1991 (Moore) / 2016 (Pichler)
+    https://www.romanpichler.com/blog/the-product-vision-board/
+
+  Prototype
+    Industrie-Praxis (Design Thinking, IDEO, d.school) · Etablierte Praxis aus Design Thinking und User-Centered Design
+    https://dschool.stanford.edu/resources/prototyping-a-mindset
+
+  Service Blueprints
+    G. Lynn Shostack · Designing Services That Deliver (Harvard Business Review) · 1984
+    https://hbr.org/1984/01/designing-services-that-deliver
+
+  Storyboards
+    Industrie-Praxis (Film-Ursprung Disney 1930er, UX-Adaption Buxton 2007) · Bill Buxton — Sketching User Experiences · 2007 (UX-Adaption)
+    https://www.nngroup.com/articles/storyboards-visualize-ideas/
+
+  Usability Testing
+    Jakob Nielsen · Usability Engineering · 1993
+    https://www.nngroup.com/articles/usability-testing-101/
+
+  Value Proposition Canvas — Value Map
+    Alexander Osterwalder, Yves Pigneur, Greg Bernarda, Alan Smith · Value Proposition Design (Strategyzer Series) · 2014
+    https://www.strategyzer.com/library/the-value-proposition-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+Product Space
+-------------
+
+  Feature Maps
+    Industrie-Praxis (Product Management Community) · Etablierte Praxis aus Produktplanung und Roadmapping
+    https://www.productplan.com/glossary/feature/
+
+  Lean Canvas
+    Ash Maurya · Running Lean: Iterate from Plan A to a Plan That Works · 2010
+    https://leanstack.com/lean-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
+
+  Mockup Method
+    Industrie-Praxis (UI/UX Design) · Etablierte Praxis aus Interaction Design und UI-Entwicklung
+    https://balsamiq.com/learn/articles/what-are-mockups/
+
+  MoSCoW Method
+    Dai Clegg, Oracle UK (DSDM Consortium) · Case Method Fast-Track: A RAD Approach · 1994
+    https://www.agilebusiness.org/dsdm-project-framework/moscow-prioririsation.html
+
+  Non Functional Requirements - NFRs
+    IEEE / ISO 25010 (Software-Engineering-Standard) Werk: ISO/IEC 25010:2011 Systems and software Quality Requirements and Evaluation (SQuaRE) Jahr: 2011 (ISO) Link: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 Typ: kanonisch · ISO/IEC 25010:2011 Systems and software Quality Requirements and Evaluation (SQuaRE) Jahr: 2011 (ISO) Link: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 Typ: kanonisch · 2011 (ISO) Link: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 Typ: kanonisch
+    https://iso25000.com/index.php/en/iso-25000-standards/iso-25010 **Typ:** kanonisch
+
+  PRD Document
+    Industrie-Praxis (Product Management, Marty Cagan, Lenny Rachitsky u.a.) Werk: Etablierte Praxis aus Produktmanagement und Requirements Engineering Link: https://www.lennysnewsletter.com/p/how-to-write-a-great-prd Typ: industrie-praxis · Etablierte Praxis aus Produktmanagement und Requirements Engineering Link: https://www.lennysnewsletter.com/p/how-to-write-a-great-prd Typ: industrie-praxis
+    https://www.lennysnewsletter.com/p/how-to-write-a-great-prd **Typ:** industrie-praxis
+
+  Product Vision Board
+    Roman Pichler · Strategize: Product Strategy and Product Roadmap Practices for the Digital Age · 2016
+    https://www.romanpichler.com/tools/product-vision-board/
+
+  Product Vision Board Extended
+    Roman Pichler · Strategize: Product Strategy and Product Roadmap Practices for the Digital Age · 2016
+    https://www.romanpichler.com/tools/product-vision-board/
+
+  RICE Scoring
+    Sean McBride (Intercom) · RICE: Simple prioritization for product managers (Intercom Blog) · 2017
+    https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/
+
+  Roadmap
+    Industrie-Praxis (Pichler, Cagan, ProductPlan u.a.) · Etablierte Praxis aus strategischem Produktmanagement
+    https://www.romanpichler.com/blog/the-goal-oriented-agile-roadmap/
+
+  Security Architecture Canvas
+    Industrie-Praxis (OWASP, NIST, Security-Community) · Etablierte Praxis aus IT-Security, Threat Modeling und Secure-by-Design
+    https://owasp.org/www-project-top-ten/
+
+  Sprint Planning
+    Ken Schwaber, Jeff Sutherland · The Scrum Guide · 1995 (Ursprung) / aktuell 2020
+    https://scrumguides.org/scrum-guide.html
+
+  System Architecture Diagram
+    Industrie-Praxis (Software Engineering, C4-Modell u.a.) · Etablierte Praxis aus Software Architecture und System Design
+    https://c4model.com/
+
+  Tech Stack Selection Matrix
+    Industrie-Praxis (Engineering-Teams, ThoughtWorks Tech Radar) · Etablierte Praxis aus Technology Evaluation und Architecture Decision Records
+    https://www.thoughtworks.com/radar
+
+  User Story Mapping
+    Jeff Patton · User Story Mapping: Discover the Whole Story, Build the Right Product · 2014
+    https://jpattonassociates.com/user-story-mapping/
+
+Market Space
+------------
+
+  A/B Testing Marketing
+    Industrie-Praxis (Marketing-Experimentation) · Etablierte Praxis aus Online-Marketing und Conversion-Optimierung
+    https://hbr.org/2017/09/the-surprising-power-of-online-experiments
+
+  AARRR Framework
+    Dave McClure (500 Startups) · Startup Metrics for Pirates: AARRR! · 2007
+    https://500hats.typepad.com/500blogs/2007/09/startup-metrics.html
+
+  Brand Voice Guide
+    Industrie-Praxis (Brand Strategy Community, Aaker u.a.) · David Aaker — Building Strong Brands (als Referenz) · 1996 (Aaker, als Referenz)
+    https://www.aaker.com/
+
+  Co-Creation Canvas
+    C.K. Prahalad, Venkat Ramaswamy · The Future of Competition: Co-Creating Unique Value with Customers · 2004
+    https://hbr.org/2000/01/co-opting-customer-competence
+
+  Communication Plan
+    Industrie-Praxis (PR- und Marketing-Methodik) · Etablierte Praxis aus Public Relations, Marketing Communications und Projektmanagement
+    https://www.prsa.org/
+
+  Content Calendar
+    Industrie-Praxis (Content-Marketing-Community) · Etablierte Praxis aus Content Marketing und Editorial Planning
+    https://contentmarketinginstitute.com/articles/content-marketing-editorial-calendar/
+
+  CRM Funnel Mapping
+    Industrie-Praxis (Sales & Marketing Operations) · Etablierte Praxis aus CRM, Sales Pipeline Management und Marketing Automation
+    https://www.salesforce.com/resources/articles/sales-funnel/
+
+  Customer Segmentation Matrix
+    Philip Kotler (STP-Modell) · Marketing Management · 1967 (Erstauflage)
+    https://www.kotlermarketing.com/
+
+  Flywheel Model
+    Jim Collins (Ursprung) / Jeff Bezos (Amazon Flywheel) / HubSpot (Inbound Flywheel) · Collins — Good to Great / Amazon Napkin Sketch (~2001) / HubSpot Inbound Methodology · 2001 (Collins) / ~2001 (Amazon) / 2018 (HubSpot)
+    https://www.jimcollins.com/concepts/the-flywheel.html
+
+  Freemium Funnel
+    Industrie-Praxis (SaaS-Community, Vineet Kumar HBR 2014) · Vineet Kumar — Making 'Freemium' Work (HBR) · 2014
+    https://hbr.org/2014/05/making-freemium-work
+
+  Go To Market Strategy
+    Industrie-Praxis (SaaS & Startup Community, Gartner, a16z) · Etablierte Praxis aus strategischem Produkt- und Marketingmanagement
+    https://a16z.com/go-to-market/
+
+  Hooked Model
+    Nir Eyal (mit Ryan Hoover) · Hooked: How to Build Habit-Forming Products · 2014
+    https://www.nirandfar.com/how-to-manufacture-desire/
+
+  Influencer Map
+    Industrie-Praxis (Influencer Marketing Community) · Etablierte Praxis aus Influencer Marketing und Social Media Strategy
+    https://influencermarketinghub.com/
+
+  Loyalty Builder
+    Frederick Reichheld (NPS, Loyalty-Effect) · The Loyalty Effect / The Ultimate Question · 1996 / 2006
+    https://hbr.org/2003/12/the-one-number-you-need-to-grow
+
+  Marketing Attribution Model
+    Industrie-Praxis (Google Analytics, Avinash Kaushik u.a.) · Etablierte Praxis aus Digital Marketing Analytics und Multi-Touch Attribution
+    https://support.google.com/analytics/answer/1662518
+
+  Marketing KPI Dashboard
+    Industrie-Praxis (Marketing Analytics Community) · Etablierte Praxis aus Performance Marketing und Marketing Analytics
+    https://cxl.com/blog/marketing-metrics/
+
+  Marketing Strategy Canvas
+    Industrie-Praxis (Synthese aus Kotler, BMC, Digital-Marketing-Community) · Etablierte Praxis aus strategischem Marketing und digitaler Transformation (Canvas-Adaption von Mona Meyer, 2023)
+    https://www.kotlermarketing.com/
+
+  Positioning Template
+    Al Ries, Jack Trout · Positioning: The Battle for Your Mind · 1981
+    https://www.ries.com/books/positioning/
+
+  Sales Playbook
+    Industrie-Praxis (B2B-Sales-Community, Trish Bertuzzi u.a.) · Etablierte Praxis aus B2B-Vertrieb und Sales Enablement
+    https://www.saleshacker.com/what-is-a-sales-playbook/
+
+  UAC Tracker
+    Industrie-Praxis (User Acquisition / Growth Marketing) · Etablierte Praxis aus Growth Marketing und User-Acquisition-Tracking
+    https://a16z.com/growth/
+
+  UGC Tracker
+    Industrie-Praxis (User-Generated Content, Marketing-Community) · Etablierte Praxis aus Social Media Marketing und Community Management
+    https://www.hubspot.com/ugc
+
+
+LÜCKEN
+------
+
+Bei 35 von 85 Methoden ist die Quellenangabe unvollständig.
+Häufigster Fall ist ein fehlendes Jahr bei Methoden ohne einzelne
+Urheberschaft, etwa Problem Statement oder Marktstrategie. Die Angaben
+werden nachgetragen, sobald sie am Original geprüft sind.
+
+  strategy-space/Marktstrategie.md: jahr
+  strategy-space/Pricing_Strategy_Canvas.md: jahr
+  strategy-space/Produktstrategie.md: jahr
+  problem-space/Competitive_Analysis.md: jahr
+  problem-space/Customer_Journey_Mapping.md: jahr
+  problem-space/Ideal_Customer_Profile_ICP.md: autor, werk, jahr, link
+  problem-space/Problem_Statement.md: jahr
+  problem-space/Surveys_Questionnaires.md: jahr
+  problem-space/User_Journey_Mapping.md: jahr
+  problem-space/Value_Proposition_Jobs_to_be_done.md: werk, link
+  problem-space/Value_Proposition_Pains_and_Gains.md: werk, link
+  solution-space/A_B_Testing.md: jahr
+  solution-space/Key_Performance_Indicators_-_KPI.md: jahr
+  solution-space/Mockups.md: jahr
+  solution-space/Pilot_Beta.md: jahr
+  solution-space/Prototype.md: jahr
+  product-space/Feature_Maps.md: jahr
+  product-space/Mockup_Method.md: jahr
+  product-space/PRD_Document.md: jahr
+  product-space/Roadmap.md: jahr
+  product-space/Security_Architecture_Canvas.md: jahr
+  product-space/System_Architecture_Diagram.md: jahr
+  product-space/Tech_Stack_Selection_Matrix.md: jahr
+  market-space/A_B_Testing_Marketing.md: jahr
+  market-space/CRM_Funnel_Mapping.md: jahr
+  market-space/Communication_Plan.md: jahr
+  market-space/Content_Calendar.md: jahr
+  market-space/Go_To_Market_Strategy.md: jahr
+  market-space/Influencer_Map.md: jahr
+  market-space/Marketing_Attribution_Model.md: jahr
+  market-space/Marketing_KPI_Dashboard.md: jahr
+  market-space/Marketing_Strategy_Canvas.md: jahr
+  market-space/Sales_Playbook.md: jahr
+  market-space/UAC_Tracker.md: jahr
+  market-space/UGC_Tracker.md: jahr
+
+
+Diese Datei wird erzeugt: explorer/build-notice.py
+Sonderfälle von Hand: gitbook-methods/rights-exceptions.json

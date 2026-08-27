@@ -39,4 +39,4 @@ Konsistenzprüfung: `explorer/check-methods.py`, prüft unter anderem, ob diese 
 
 CC BY-NC-SA 4.0, Ralph Hutter, productdesigntoolkit.net. Siehe `LICENSE`.
 
-Die Skills selbst stehen unter dieser Lizenz. Die zugrunde liegenden Methoden stammen von ihren jeweiligen Urhebern und sind nicht davon abgedeckt; Quelle und Autor sind in jedem Skill angegeben.
+Die Skills selbst stehen unter dieser Lizenz. Die zugrunde liegenden Methoden stammen von ihren jeweiligen Urhebern und sind nicht davon abgedeckt. Herkunft und Bedingungen je Methode stehen in `NOTICE`.
